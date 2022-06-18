@@ -1,0 +1,61 @@
+.h1{
+    text-align:center;
+    color:darkcyan;
+    border-top:1px solid darkcyan;
+}
+body{
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612729146_142-p-kartinka-goluboi-fon-odnotonnii-172.jpg);
+}
+.hol{
+        text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.gol{
+        text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.fol{
+        text-decoration: none;
+    color:Aquamarine;
+    border:4px DarkCyan solid;
+    border-radius:15px;
+    background-color: DarkCyan;
+}
+.silka{
+    text-align:center;
+    border-bottom:2px darkcyan solid;
+}
+.holl{
+    color:darkcyan;
+}
+.text{
+    color:darkcyan;
+}
+.table{
+    color:darkcyan;
+    font-size: 25px;
+}
+.image-1{
+    border:10px solid white;
+    margin-left:20px;
+}
+.image-2{
+     border:10px solid white;
+     margin-left:20px;
+}
+.image-3{
+    border:10px solid white;
+    margin-left:20px;
+    margin-top:20px;
+}
+.image-4{
+    border:10px solid white;
+    margin-left:20px;
+    margin-top:20px;
+}
